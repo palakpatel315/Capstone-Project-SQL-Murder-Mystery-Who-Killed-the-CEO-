@@ -37,5 +37,35 @@ All conclusions are reached using SQL only.
 | evidence_id | room | description | found_time |
 
 ---
+## 📸 **SQL Queries**
 
-Please Checkout the Investigation Steps Here ()
+![Please Checkout the Investigation Steps Here] (https://github.com/palakpatel315/Capstone-Project-SQL-Murder-Mystery-Who-Killed-the-CEO-/tree/main/Investigation_Steps_SQL_Queries)
+---
+
+### **🕵️ Final Answer**
+The murderer is revealed through:
+
+- entry into the CEO Office at the exact time,
+- a false alibi,
+- matching call activity,
+- and evidence linked to the suspect.
+---
+### **Conclusion**
+
+This project blends SQL skills with investigative thinking.
+It’s a fun hands-on way to practice joins, time filters, CTE logic, and multi-table reasoning.
+---
+
+Thank you [Indian Data Club](https://www.linkedin.com/company/indian-data-club/posts/?feedView=all) and [DPDzero](https://www.linkedin.com/company/dpdzero/) for this opportunity.
+---
+
+## 👩‍💻 **About Me**
+**Palak Patel**  
+*Aspiring Data Analyst | Skilled in SQL, Power BI, Excel*  
+📍 Passionate about turning data into insights and solving real-world business problems.  
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/palak-patel-0711242a0/)
+
+---
+
+
